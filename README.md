@@ -7,7 +7,7 @@
 <p align="center" style="margin: 25px 0px 15px 0px;">
   <img width="600" src="dino.gif" alt="snake"/>
 </p>
-    
+    |:-|:-:|-:|
 <div align="center">
    <h3>
     <font color="#E5E5E5" align="right"><b>About me:</b></font>
