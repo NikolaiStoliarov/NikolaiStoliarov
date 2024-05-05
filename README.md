@@ -44,12 +44,4 @@
   <a href="https://www.adobe.com/uk/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" /></a>
   <a href="https://adobe.com/uk/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg"  width="40" height="40" /></a>
 
-  <div style="margin: 50px 0px 50px 0px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiStoliarov&layout=compact" alt="Top Langs" />
-  </div>
-  &nbsp;
-  <div style="margin: 50px 0px 50px 0px;">
-    <img src="https://www.codewars.com/users/NikolaiStoliarov/badges/large" alt="Codewars" />
-  </div>
-
 </div>
